@@ -38,4 +38,5 @@ You're going to need to use a user-agent switcher to see the various
 views. I recommend:
 
 For Firefox: https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/
+
 For Chrome: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
